@@ -1,6 +1,1 @@
-
-<<<<<<< HEAD
-ÕâÊÇorigin
-=======
-this is remote
->>>>>>> 92ae94724bab15137225fdd72bdda4ffd72e0e5e
+this this origin and remote
